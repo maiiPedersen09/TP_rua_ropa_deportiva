@@ -1,5 +1,8 @@
 # TP_Rua_Ropa_Deportiva- Web 2 (2025)
-
+## Integrantes del grupo 
+ **Nombre:** Maia Pedersen
+ **DNI:** 47021868
+ **Gmail:** maipedersench02@gmail.com
 
 ## 1. El Proyecto y Dominio
 
